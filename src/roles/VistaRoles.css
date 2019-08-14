@@ -1,11 +1,11 @@
 .panel-heading{
     text-align: center;
-    
+    background-color: aqua;
 }
 
 
 div.menu { 
-    background-color: #06FB97;
+    background-color: #537fdd;
     min-height: 20vh;
     display: flex;
     flex-direction: column;
@@ -21,7 +21,7 @@ div.menu {
   }
 
   .mod-lab{
-    background-color: #06FB97;
+    background-color: #537fdd;
     text-align: center;
     
   }

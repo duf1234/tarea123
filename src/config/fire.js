@@ -1,7 +1,6 @@
-import * as firebase from 'firebase';
-import firestore from 'firebase/firestore'
-
-const settings = {timestampsInSnapshots: true};
+/*  import ReactDOM from 'react-dom';
+//import firebase from 'firebase';
+import firebase from 'firebase';
 
 const config = {
   apiKey: "AIzaSyBIyKkulOr_jYcnyMSdIyK-v2FPgiaHoWg",
@@ -12,8 +11,8 @@ const config = {
   messagingSenderId: "1044145514712",
   appId: "1:1044145514712:web:6bacb800d99c0825"
 };
-firebase.initializeApp(config);
+const fire = firebase.initializeApp(config);
 
-firebase.firestore().settings(settings);
+export default fire;
 
-export default firebase;
+*/

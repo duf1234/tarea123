@@ -1,7 +1,5 @@
-import * as firebase from 'firebase';
-import firestore from 'firebase/firestore'
-
-const settings = {timestampsInSnapshots: true};
+import ReactDOM from 'react-dom';
+import firebase from 'firebase';
 
 const config = {
   apiKey: "AIzaSyBIyKkulOr_jYcnyMSdIyK-v2FPgiaHoWg",
@@ -11,9 +9,8 @@ const config = {
   storageBucket: "react-e707d.appspot.com",
   messagingSenderId: "1044145514712",
   appId: "1:1044145514712:web:6bacb800d99c0825"
-};
-firebase.initializeApp(config);
+  
+}; 
+const database = firebase.database().ref('/admin');
 
-firebase.firestore().settings(settings);
-
-export default firebase;
+export default database;

@@ -44,7 +44,7 @@ class Docente extends Component {
         <div class="panel panel-default">
           <div class="panel-heading">
             <h3 class="panel-title">
-              Vista Docente1
+              Vista Docente
             </h3>
           </div>
           <div class="panel-body">
