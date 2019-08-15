@@ -1,7 +1,7 @@
 'use strict';
 
 const e = React.createElement;
-
+//aq e colocado todo lo relacionado a la aplicacion para analizar los marcadores
 class AF extends React.Component {
 
   render() {

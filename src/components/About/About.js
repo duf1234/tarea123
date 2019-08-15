@@ -3,6 +3,7 @@ import React, {Component} from "react";
 	class About extends Component{
 		render(){
 			return(
+				 //aq e puesto una pequeña de claracion
 				<div className="About">
 				<blockquote className="blockquote">
 				<p className="mb-0"> Este proyecto fue realizado con reactjs + redux y conectado a una base de datos noSQL (FIREBASE) </p>

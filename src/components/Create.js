@@ -47,7 +47,7 @@ class Create extends Component {
       console.error("Error adding document: ", error);
     });
   }
-
+//estos son los metodos para reservar los laboratorios  para almacenar el a la base de datos
   render() {
     const { title, description,horai,horaf, author } = this.state;
     return (

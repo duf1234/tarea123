@@ -22,7 +22,7 @@ import firebase from '../Firebase';
 		}
 		render(){
 			return(
-        
+        //Aqui tenemos inplementado la verificacion del correo electronico
 		<div className='Login'>
 		<Container className="App">
         <h2>Iniciar</h2>

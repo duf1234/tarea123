@@ -1,6 +1,7 @@
 import React, {Component} from "react";
 import {  Container, Col, Form, FormGroup, Label, Input, Button } from 'reactstrap';
 import firebase from '../Firebase';
+ //componentes para implementacion del login
 	class Login extends Component{
 		constructor(props){
 			super(props);
@@ -20,6 +21,7 @@ import firebase from '../Firebase';
 		handleChange(e){
 			this.setState({ [e.target.name]: e.target.value});
 		}
+    //en el render tenemos declarados los campos de los datos que van a tomar desde la bas de datos 
 		render(){
 			return(
         
@@ -40,6 +42,7 @@ import firebase from '../Firebase';
               />
             </FormGroup>
           </Col>
+          //implementares el admin y contraseña para la base de datos
           <Col>
             <FormGroup>
               <Label for="examplePassword">Password</Label>
