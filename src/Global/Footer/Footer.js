@@ -21,19 +21,19 @@ class Footer extends Component {
           <div className="col-lg-8 col-md-10 mx-auto">
             <ul className="list-inline text-center">
               <li className="list-inline-item">
-                    <SocialIcon url="https://www.facebook.com/garciaa94"/>
+                    <SocialIcon url="https://www.youtube.com/garciaa94"/>
               </li>
               <li className="list-inline-item">
-                    <SocialIcon url="https://github.com/Garciaa94"/>
+                    <SocialIcon url="https://github.com/dufar1234"/>
               </li>
               <li className="list-inline-item">
-                    <SocialIcon url="https://twitter.com/adrian94garcia"/>
+                    <SocialIcon url="https://twitter.com/brayanmina"/>
               </li>
               <li className="list-inline-item">
-                    <SocialIcon url="https://www.instagram.com/garciaa194"/>
+                    <SocialIcon url="https://www.facebook.com/brayanmina"/>
               </li>
               <div className="proyecto">
-              <p>Proyecto Graficas y animaciones 6to PUCESE    peter.garcia@pucese.edu.ec </p>
+              <p>Proyecto GRAFICA Y ANIMACIONES 6TO DE SISTEMAS Y COMPUTACION </p>
               <p></p>
               </div>
             </ul>

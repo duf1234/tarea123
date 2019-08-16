@@ -1,6 +1,6 @@
 .Header {
   text-align: center;
-  background-color: #2EC0C0;
+  background-color: #0782F5;
   height: 100px;
   padding: 20px;
   color: white;
@@ -24,10 +24,10 @@
 }
 
 .Menu li a {
-    color: rgb(50, 63, 63);
+    color: #0782F5;
     text-decoration: none;
 }
 
 .Menu li a:hover {
-    color: #EEE;
+    color: #0782F5;
 }

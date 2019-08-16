@@ -9,7 +9,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #0782F5;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -33,13 +33,13 @@
 }
 
 .Menulist {
-  background-color: #537fdd;
+  background-color: #0782F5;
   min-height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #FFFFFF;
   text-align: center
 }

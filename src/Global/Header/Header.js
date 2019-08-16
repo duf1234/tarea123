@@ -17,7 +17,7 @@ class Header extends Component {
     return (
       <div className="Header">
         <div className="icono">
-          <h2>Graficacion y Animacion</h2>
+          <h2>Grafica y Animaciones</h2>
           <ul className="Menu">
             {
               items && items.map(
